@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">Hey 👋 I'm Tejinder Arora</h1>
+<h3 align="center">Passionate Software Engineer | Tech Explorer | Problem Solver</h3>
 
-<!--
-**tejinderarora/tejinderarora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🛠️ **Tech Stack**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** JavaScript, TypeScript, Python
+- **Frontend:** React, Next.js, Tailwind CSS
+- **Backend:** Node.js, Express, PostgreSQL, MongoDB
+- **DevOps & Tools:** Docker, GitHub Actions, Nginx
+- **Cloud:** AWS
+
+---
+
+📊 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tejinderarora&show_icons=true&theme=radical" alt="tejinderarora's GitHub stats"/>
+</p>
